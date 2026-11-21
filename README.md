@@ -3,3 +3,7 @@
 
 **Kelompok:** 7
 **Kelas:** T1H
+
+### PROGRES 1
+
+|Anggota|Pembagian Tugas|
