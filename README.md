@@ -6,4 +6,4 @@
 
 ### PROGRES 1
 
-|Anggota|Pembagian Tugas|
+|  Anggota  |  Pembagian Tugas  |
