@@ -4,7 +4,7 @@
 **Kelompok:** 7 <br>
 **Kelas:** T1H
 
-### PROGRES 1
+### PROGRES 1, Senin 23 November 2026
 
 |  Anggota  |  Pembagian Tugas  |
 |---|---|
